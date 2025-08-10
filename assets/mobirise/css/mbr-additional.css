@@ -1970,11 +1970,11 @@ img,
   position: absolute;
   bottom: -1px;
   left: 0;
-  background-image: linear-gradient(0deg, #000000 40%, transparent 98%);
+  background-image: linear-gradient(0deg, #060606 40%, transparent 98%);
 }
 .cid-uTpNV4aKbi .embla__slide .slide-content .item-wrapper .item-img .item-wrap {
   padding: 12px;
-  border: 2px solid #02050a;
+  border: 2px solid #060606;
 }
 @media (max-width: 992px) {
   .cid-uTpNV4aKbi .embla__slide .slide-content .item-wrapper .item-img .item-wrap {
@@ -2071,7 +2071,7 @@ img,
 .cid-uTpOV6Huod {
   padding-top: 5rem;
   padding-bottom: 0rem;
-  background-color: #02050a;
+  background-color: #060606;
 }
 .cid-uTpOV6Huod .mbr-fallback-image.disabled {
   display: none;
@@ -3967,11 +3967,16 @@ img,
 .cid-uTq0IWVpaD .mbr-text,
 .cid-uTq0IWVpaD .text-wrapper {
   color: #378ffd;
+  text-align: center;
+}
+.cid-uTq0IWVpaD .mbr-section-title,
+.cid-uTq0IWVpaD .mbr-section-btn {
+  text-align: center;
 }
 .cid-uTq1q6Q4L3 {
   padding-top: 5rem;
   padding-bottom: 2rem;
-  background-color: #02050a;
+  background-color: #060606;
 }
 .cid-uTq1q6Q4L3 .mbr-fallback-image.disabled {
   display: none;
@@ -4770,7 +4775,7 @@ img,
 .cid-uIdl89Fvb9 {
   padding-top: 12rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-color: #060606;
 }
 .cid-uIdl89Fvb9 .mbr-fallback-image.disabled {
   display: none;
@@ -5934,7 +5939,7 @@ img,
 .cid-uTq6sGNPkv {
   padding-top: 10rem;
   padding-bottom: 7rem;
-  background-color: #02050a;
+  background-color: #060606;
 }
 .cid-uTq6sGNPkv .mbr-fallback-image.disabled {
   display: none;
@@ -6019,7 +6024,7 @@ img,
 .cid-uTq7PLZON4 {
   padding-top: 7rem;
   padding-bottom: 7rem;
-  background-color: #02050a;
+  background-color: #060606;
 }
 .cid-uTq7PLZON4 .mbr-fallback-image.disabled {
   display: none;
@@ -6278,8 +6283,8 @@ img,
   color: #ffffff;
 }
 .cid-uTqbLA7aQF {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding-top: 6rem;
+  padding-bottom: 1rem;
   background-color: #060606;
 }
 .cid-uTqbLA7aQF .item:focus,
@@ -8805,7 +8810,7 @@ img,
   padding-top: 5rem;
   padding-bottom: 5rem;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #060606;
 }
 .cid-uTq2ZWzbdw .mbr-fallback-image.disabled {
   display: none;
@@ -9017,7 +9022,7 @@ img,
 .cid-uTq4Mpl3JD {
   padding-top: 0rem;
   padding-bottom: 5rem;
-  background-color: #000000;
+  background-color: #060606;
 }
 .cid-uTq4Mpl3JD .mbr-fallback-image.disabled {
   display: none;
@@ -9870,7 +9875,7 @@ img,
 .cid-uTpqGeKIQg {
   padding-top: 11rem;
   padding-bottom: 5rem;
-  background-color: #02050a;
+  background-image: url("../../../assets/images/mbr-1920x960.webp");
 }
 .cid-uTpqGeKIQg .mbr-fallback-image.disabled {
   display: none;
@@ -9962,7 +9967,7 @@ img,
 }
 .cid-uTpV2AKBvD .card-wrapper {
   position: relative;
-  background-color: #02050a;
+  background-color: #060606;
   padding: 160px 64px;
   margin: 6px 0;
   display: flex;
@@ -10155,7 +10160,7 @@ img,
   padding: 24px;
   height: 100%;
   border: 1px solid #252525;
-  background-color: #121212;
+  background-color: #414141;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -10936,6 +10941,7 @@ img,
 .cid-uTqcSMh9w2 .mbr-text,
 .cid-uTqcSMh9w2 .text-wrapper {
   text-align: center;
+  color: #378ffd;
 }
 .cid-uTqestIfSO {
   padding-top: 5rem;
@@ -11036,8 +11042,8 @@ img,
   text-align: center;
 }
 .cid-uTqhAe6x9z {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #060606;
 }
 .cid-uTqhAe6x9z .item:focus,
@@ -11067,7 +11073,7 @@ img,
 .cid-uTqgkhMkpL {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #02050a;
+  background-color: #060606;
 }
 .cid-uTqgkhMkpL .mbr-fallback-image.disabled {
   display: none;
@@ -11176,7 +11182,7 @@ img,
 }
 .cid-uTqex9CuTH .text-wrapper .mbr-text {
   margin-bottom: 0;
-  background: linear-gradient(90deg, #2e96ff, #61b0ff 65%, #94c9ff);
+  background: linear-gradient(90deg, #378ffd, #69abfe 65%, #9cc8fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
